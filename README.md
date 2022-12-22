@@ -3,6 +3,7 @@
 --
 >blockquote Just Following The Coursera instructions
 
-### Edit for SYNTAX
+### Edit are coming...
+"italicized text" You have been warned
 IBM Data Analyst Certifcate
 on Coursera
