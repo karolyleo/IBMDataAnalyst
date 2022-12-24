@@ -8,3 +8,17 @@
 IBM Data Analyst Certifcate
 on Coursera
 "i believe this is an option as well"
+d
+o
+e
+s
+
+t
+h
+i
+s
+
+w
+o
+r
+k
