@@ -8,5 +8,8 @@
 IBM Data Analyst Certifcate
 on Coursera
 "i believe this is an option as well"
+damn that didnt work
+
+
     //God bless america
     console.log("Can i get uhhh");
