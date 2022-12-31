@@ -9,7 +9,7 @@ IBM Data Analyst Certifcate
 on Coursera
 "i believe this is an option as well"
 damn that didnt work
-
+i totally messed up the streak...
 
 
     //God bless america
