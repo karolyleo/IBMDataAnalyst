@@ -10,6 +10,7 @@ on Coursera
 "i believe this is an option as well"
 damn that didnt work
 i totally messed up the streak...
+i hope it isnt too bad
 
 
     //God bless america
